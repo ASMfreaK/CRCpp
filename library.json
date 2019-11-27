@@ -1,0 +1,13 @@
+{
+  "name": "CRCpp",
+  "description": "Easy to use and fast C++ CRC library.",
+  "keywords": "CRC",
+  "repository":  {
+     "type": "git",
+     "url": "https://github.com/ASMfreaK/CRCpp.git"
+  },
+  "version": "1.0.0",
+  "build": {
+    "includeDir": "inc/"
+  }
+}
